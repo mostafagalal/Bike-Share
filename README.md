@@ -3,7 +3,7 @@
 ## Project Overview:
 This project focuses on pandas library usage and simple statistics methods to perform a rudimentary analysis on the bikeshare data from three major U.S. cities - Chicago, Washington, and New York City - to display information such as most popular days or most common stations.
 
-Running the program:
+### Running the program:
 You can input 'python bikeshare.py' on your terminal to run this program.
 Program Details:
 The program takes user input for the city (e.g. Chicago), month for which the user wants to view data (e.g. January; also includes an 'all' option), and day for which the user wants to view data (e.g. Monday; also includes an 'all' option).
@@ -25,7 +25,7 @@ The youngest user (if available)
 The most common birth year amongst users (if available)
 Finally, the user is prompted with the choice of restarting the program or not.
 
-Requirements:
+### Requirements:
 Language: Python 3.6 or above
 Libraries: pandas, numpy, time
 Project Data:
