@@ -5,7 +5,9 @@ This project focuses on pandas library usage and simple statistics methods to pe
 
 ### Running the program:
 You can input 'python bikeshare.py' on your terminal to run this program.
+
 Program Details:
+
 The program takes user input for the city (e.g. Chicago), month for which the user wants to view data (e.g. January; also includes an 'all' option), and day for which the user wants to view data (e.g. Monday; also includes an 'all' option).
 
 Upon receiving the user input, it goes ahead and asks the user if they want to view the raw data (5 rows of data initially) or not. Following the input received, the program prints the following details:
