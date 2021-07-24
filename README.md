@@ -40,7 +40,7 @@ Upon receiving the user input, it goes ahead and asks the user if they want to v
 
 ### Requirements:
 
-Language: Python 3.6 or above
+* Language: Python 3.6 or above
 
 Libraries: pandas, numpy, time
 
